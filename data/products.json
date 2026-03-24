@@ -1,0 +1,14 @@
+[
+  {"id":1,"nombre":"Manzana Roja","precio":15.99,"categoria":"frutas","imagen":"../images/manzana.jpg","unidad":"kg","descripcion":"Manzana roja fresca, dulce y crujiente.","stock":50,"badge":"Popular","rating":4.8},
+  {"id":2,"nombre":"Banana","precio":9.99,"categoria":"frutas","imagen":"../images/bananas.jpg","unidad":"kg","descripcion":"Bananas maduras, energéticas y naturales.","stock":80,"badge":"","rating":4.6},
+  {"id":3,"nombre":"Pera Verde","precio":12.50,"categoria":"frutas","imagen":"../images/pera.jpg","unidad":"kg","descripcion":"Peras verdes jugosas, perfectas para el día.","stock":40,"badge":"Nuevo","rating":4.5},
+  {"id":4,"nombre":"Uvas Negras","precio":18.99,"categoria":"frutas","imagen":"../images/uvas.jpg","unidad":"kg","descripcion":"Uvas negras dulces, ideales para snack.","stock":30,"badge":"Oferta","rating":4.9},
+  {"id":5,"nombre":"Sandía","precio":22.00,"categoria":"frutas","imagen":"../images/sandia.jpg","unidad":"unidad","descripcion":"Sandía fresca y jugosa, perfecta para el verano.","stock":20,"badge":"Temporada","rating":4.7},
+  {"id":6,"nombre":"Naranja","precio":8.50,"categoria":"citricos","imagen":"../images/naranja.jpg","unidad":"kg","descripcion":"Naranjas ricas en vitamina C, muy jugosas.","stock":100,"badge":"Popular","rating":4.8},
+  {"id":7,"nombre":"Limón","precio":6.99,"categoria":"citricos","imagen":"../images/limon.jpg","unidad":"kg","descripcion":"Limones frescos, ideales para cocina y bebidas.","stock":90,"badge":"","rating":4.5},
+  {"id":8,"nombre":"Brócoli","precio":11.00,"categoria":"verduras","imagen":"../images/brocoli.jpg","unidad":"unidad","descripcion":"Brócoli fresco, rico en fibra y antioxidantes.","stock":35,"badge":"Orgánico","rating":4.6},
+  {"id":9,"nombre":"Tomate","precio":7.99,"categoria":"verduras","imagen":"../images/tomate.jpg","unidad":"kg","descripcion":"Tomates rojos maduros, perfectos para ensaladas.","stock":60,"badge":"","rating":4.4},
+  {"id":10,"nombre":"Zanahoria","precio":5.50,"categoria":"verduras","imagen":"../images/zanahoria.jpg","unidad":"kg","descripcion":"Zanahorias frescas, ricas en betacaroteno.","stock":70,"badge":"Orgánico","rating":4.7},
+  {"id":11,"nombre":"Pimiento Rojo","precio":13.50,"categoria":"verduras","imagen":"../images/pimiento.jpg","unidad":"kg","descripcion":"Pimientos rojos dulces, excelentes para cocinar.","stock":45,"badge":"","rating":4.5},
+  {"id":12,"nombre":"Berenjena","precio":10.00,"categoria":"verduras","imagen":"../images/berenjena.jpg","unidad":"kg","descripcion":"Berenjenas frescas, versátiles en la cocina.","stock":25,"badge":"Nuevo","rating":4.3}
+]
